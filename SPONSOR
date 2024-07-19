@@ -1,0 +1,22 @@
+
+ Initial EMANE development was sponsored by the Naval Research
+ Laboratory (NRL) under the OSD Network Communication Capability
+ Program (NCCP) and in cooperation with the Army Research Laboratory
+ (ARL) High Performance Computing Mobile Network Modeling Institute
+ (HPC MNMI) effort.
+
+
+ Feature Sponsors
+ --
+
+ MIT Lincoln Laboratory - TDMA radio model
+ https://github.com/adjacentlink/emane/wiki/TDMA-Model
+
+ MIT Lincoln Laboratory - OTA message fragmentation support and
+ external transport TCP connection support.
+
+ Naval Research Laboratory - Physical Layer fading model algorithm
+ support and Nakagami-m implementation.
+
+ For more information on sponsoring EMANE features contact us at
+ emane-info at adjacentlink dot com.
